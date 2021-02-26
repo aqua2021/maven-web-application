@@ -18,6 +18,13 @@
 	We offer interview preparations and job assitance.
 	The King is in our midst. His name is JESUS. What a wonderful it is. HE IS OUR SUCCESS ACCESS KEY.
 	Thanks for being an ambassador of Landmark Technology. President</h1>
+	
+<ul>
+  <li>About Us</li>
+  <li>Contact</li>
+  <li>Message Board</li>
+</ul>
+	
 <hr>
 <div style="text-align: center;">
 	<span>
